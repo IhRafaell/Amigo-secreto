@@ -1,4 +1,4 @@
-let participantes = ["Elaine", "Zaney", "Ariane", "Rafael", "Damy", "Letycia", "Débora", "Eduarda", "Taíssa", "Heshelley", "Léa", "Murilo"];
+let participantes = ["Elaine", "Zaney", "Ariane", "Damy", "Letycia", "Débora", "Eduarda", "Taíssa", "Heshelley", "Léa", "Murilo", "Rossana", "Cris", "Maju", "Adriana", "Rebeca"];
 let participantesRestantes = [...participantes];
 let escolhidos = [];
 let resultadoElement = document.getElementById('resultado');
